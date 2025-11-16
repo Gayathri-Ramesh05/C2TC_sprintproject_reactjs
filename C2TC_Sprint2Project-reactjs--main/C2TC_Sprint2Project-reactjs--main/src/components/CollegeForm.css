@@ -1,0 +1,42 @@
+/* ===== Add College Form Styling ===== */
+.college-form {
+  background-color: #ffffff;
+  border-radius: 15px;
+  padding: 25px;
+  box-shadow: 0px 6px 18px rgba(0, 0, 0, 0.15);
+  max-width: 400px;
+  margin: 20px auto;
+  text-align: left;
+}
+
+.college-form h3 {
+  text-align: center;
+  color: #2575fc;
+  margin-bottom: 15px;
+}
+
+.college-form input {
+  width: 100%;
+  padding: 10px 12px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  font-size: 15px;
+}
+
+.college-form button {
+  width: 100%;
+  padding: 10px;
+  margin-top: 12px;
+  border: none;
+  border-radius: 10px;
+  background-color: #2575fc;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.college-form button:hover {
+  background-color: #1a5edb;
+}
